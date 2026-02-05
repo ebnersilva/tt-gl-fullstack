@@ -2,6 +2,8 @@
 
 Simple task manager built with Next.js (App Router), React, and TypeScript. View tasks, add new ones, and toggle completion.
 
+![Task Manager UI](public/demo.png)
+
 ## Getting Started
 
 ```bash
