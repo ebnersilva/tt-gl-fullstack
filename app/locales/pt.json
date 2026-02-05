@@ -1,0 +1,29 @@
+{
+  "taskManager": "Gerenciador de tarefas",
+  "goToTasks": "Ir para tarefas",
+  "tasks": {
+    "loading": "Carregando tarefas...",
+    "retry": "Tentar novamente",
+    "empty": "Nenhuma tarefa ainda. Adicione uma acima."
+  },
+  "form": {
+    "placeholder": "Adicionar nova tarefa",
+    "taskTitle": "Título da tarefa",
+    "add": "Adicionar",
+    "adding": "Adicionando..."
+  },
+  "task": {
+    "markComplete": "Marcar \"{{title}}\" como concluída",
+    "markIncomplete": "Marcar \"{{title}}\" como não concluída"
+  },
+  "errors": {
+    "loadTasks": "Falha ao carregar tarefas",
+    "createTask": "Falha ao criar tarefa",
+    "updateTask": "Falha ao atualizar tarefa"
+  },
+  "api": {
+    "TASK_NOT_FOUND": "Tarefa não encontrada",
+    "VALIDATION_FAILED": "Falha na validação",
+    "INTERNAL_SERVER_ERROR": "Erro interno do servidor"
+  }
+}
